@@ -63,3 +63,15 @@ Expectation for the next hour:
 
 - go with configuration handling
 - implement a working stringToSign method
+
+### Hour #3
+
+I forgot that getStringToSign needs date handling, and discovering date handling and a findig a proper library is not a quick
+task. It's already 11:18, but it's working.
+
+- selected a good looking date library
+- a working stringToSign method is ready, no constants
+
+Expectation for the next hour:
+
+- implement a working generateHeader
