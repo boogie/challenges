@@ -100,7 +100,6 @@ Expectation for the next hour:
 - do some more rest
 - add one or more test cases and start fixing the issues
 
-
 ### Hour #6
 
 Slow progress, but there are 14 successful tests. Basic URL parsing - separating the path and query is done and works.
@@ -112,3 +111,16 @@ Slow progress, but there are 14 successful tests. Basic URL parsing - separating
 Expectation for the next hour:
 
 - all tests are running :)
+
+### Hour #7 && #8
+
+There are 55+ successful tests, but not found a proper URL parser/handler can address the special needs of Escher, so started to working on
+an implementation. It will take some very significant time, but hopefully it will have a huge impact on moving the implementation forward.
+
+- 19 tests, just a few fails
+
+Expectation for the next hour(s):
+
+- have a proper URL handler library
+
+
