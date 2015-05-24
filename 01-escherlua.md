@@ -99,3 +99,16 @@ Expectation for the next hour:
 
 - do some more rest
 - add one or more test cases and start fixing the issues
+
+
+### Hour #6
+
+Slow progress, but there are 14 successful tests. Basic URL parsing - separating the path and query is done and works.
+
+- testcase runner
+- more testes added
+- path-query separation is done
+
+Expectation for the next hour:
+
+- all tests are running :)
