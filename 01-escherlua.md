@@ -89,4 +89,13 @@ Expectation for the next hour:
 - have lunch, get some rest
 - figure out how to call the crypto library
 
+### Hour #5
 
+Had lunch. :) Found the crypto library's reference (http://mkottman.github.io/luacrypto/manual.html#reference), issues have been fixed.
+
+- EscherLua properly calculates the authentication header for the Vanilla GET test
+
+Expectation for the next hour:
+
+- do some more rest
+- add one or more test cases and start fixing the issues
