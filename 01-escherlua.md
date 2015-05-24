@@ -135,3 +135,12 @@ Expectation for the next hour:
 
 - fix the 5 tests left
 - start working on request validation
+
+### Hour #11 & #12
+
+- all request signing tests are green
+- optimizations, fixes
+
+Expectation for the next hour:
+
+- start working on authenticate
