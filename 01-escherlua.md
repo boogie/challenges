@@ -50,3 +50,16 @@ Good progress so far:
 Expectation for the next hour:
 
 - header canonicalization, checksum calculation should work for the Vanilla GET test
+
+### Hour #2
+
+Too much time spent on finding library with SHA256 and SHA512 support. These libraries are underdocumented, just calling
+the library function intuitively helped.
+
+- a very basic canonicalization is ready
+- a "working" library for the Vanilla GET test (only the HMAC algorithm's name is a constant, everything else is calculated)
+
+Expectation for the next hour:
+
+- go with configuration handling
+- implement a working stringToSign method
