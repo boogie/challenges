@@ -39,6 +39,10 @@ support presigned URLs as well.
 
 ## Progress log
 
+### Code
+
+The code is available at https://github.com/emartech/escher-lua.
+
 ### Hour #1
 
 Good progress so far:
