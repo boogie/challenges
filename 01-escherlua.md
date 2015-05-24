@@ -124,3 +124,14 @@ Expectation for the next hour(s):
 - have a proper URL handler library
 
 
+### Hour #9 && #10
+
+There are 89 successful tests, only 5 failing tests are commented out. An URL Handler library created, included.
+
+- 29 tests, only 5 left
+- URL handler library
+
+Expectation for the next hour:
+
+- fix the 5 tests left
+- start working on request validation
