@@ -36,3 +36,17 @@ support presigned URLs as well.
 - Improve, fix the bugs, cover all the test cases, create some example code.
 - Use the project with nginx.
 - Implement presigned URL creation and validation.
+
+## Progress log
+
+### Hour #1
+
+Good progress so far:
+
+- green tests in Travis
+- able to load the JSON testsuite files
+- a basic project file structure is ready
+
+Expectation for the next hour:
+
+- header canonicalization, checksum calculation should work for the Vanilla GET test
