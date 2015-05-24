@@ -75,3 +75,18 @@ task. It's already 11:18, but it's working.
 Expectation for the next hour:
 
 - implement a working generateHeader
+
+### Hour #4
+
+Stucked at calculating the proper hash for the signature. The digesting algorithm is different for this case, and have to
+figure out how the library should be used. "It almost works.".
+
+- added the generateHeader method
+- don't know yet how close I am to finishing the basic version, if everything goes well it's about figuring out how I have to call the crypto lib
+
+Expectation for the next hour:
+
+- have lunch, get some rest
+- figure out how to call the crypto library
+
+
