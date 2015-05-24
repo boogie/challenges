@@ -123,7 +123,6 @@ Expectation for the next hour(s):
 
 - have a proper URL handler library
 
-
 ### Hour #9 && #10
 
 There are 89 successful tests, only 5 failing tests are commented out. An URL Handler library created, included.
@@ -144,3 +143,24 @@ Expectation for the next hour:
 Expectation for the next hour:
 
 - start working on authenticate
+
+### Hour #13 & #14
+
+I've started working on the authentication parts, but there are a lot of questions in my mind about it: for example how to raise errors.
+It's in progress, but for today I finish the development. I'll go and finish the implementation in the near future.
+
+### Summary
+
+Here are some thoughts:
+
+It was a very interesting experience. In the morning my speed was exceptional, then I had to face with some typical, but unexcpected problems.
+The third of the time I had to work on the url parsing mini library. After lunch was hard, I was sleepy and I had to work on solutions to move
+forward. At the end I catched the flow again, however I'm pretty tired. I planned doing an other (quite different) challange tomorrow, but I'll
+get some rest. I'll try to finish the authentication part, and try the library with some example code as well.
+
+Implementing the whole library in a day may be possible if you know the "infrastructure": you both have a deep knowledge of the programming
+language, the available libraries (date handling, url parsing, crypto) and you know how Escher works. And even if it's working, it will need
+a lot of maintenance and further work.
+
+I liked writing this log. When there was no results to report, I grouped the entries to two hours long pieces. It was just some minutes
+to write an entry.
